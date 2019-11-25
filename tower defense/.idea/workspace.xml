@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33d9c2a9-73e4-4b1d-9fcf-92cba92db0d6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SjFzUMdp8125AcCy2EujMbotTf" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Frame" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="towerDenfense.Frame" />
+      <module name="tower defense" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33d9c2a9-73e4-4b1d-9fcf-92cba92db0d6" name="Default Changelist" comment="" />
+      <created>1572069360370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572069360370</updated>
+      <workItem from="1572069362119" duration="7114000" />
+      <workItem from="1572097167389" duration="1695000" />
+      <workItem from="1572243627257" duration="1343000" />
+      <workItem from="1572254879613" duration="552000" />
+      <workItem from="1572255523840" duration="10000" />
+      <workItem from="1572398893558" duration="3184000" />
+      <workItem from="1572405230273" duration="333000" />
+      <workItem from="1572953580490" duration="5061000" />
+      <workItem from="1573028663472" duration="7277000" />
+      <workItem from="1573098950943" duration="10405000" />
+      <workItem from="1573130681640" duration="9800000" />
+      <workItem from="1573204748039" duration="9284000" />
+      <workItem from="1573226657612" duration="678000" />
+      <workItem from="1573286937016" duration="10868000" />
+      <workItem from="1573301630806" duration="4058000" />
+      <workItem from="1573368400400" duration="3626000" />
+      <workItem from="1573392308911" duration="11740000" />
+      <workItem from="1573405829661" duration="256000" />
+      <workItem from="1573406122719" duration="9915000" />
+      <workItem from="1573452820853" duration="1432000" />
+      <workItem from="1573560830403" duration="8299000" />
+      <workItem from="1573634740434" duration="10713000" />
+      <workItem from="1573648176286" duration="5358000" />
+      <workItem from="1573658198512" duration="6233000" />
+      <workItem from="1573698620269" duration="5503000" />
+      <workItem from="1573719485853" duration="4157000" />
+      <workItem from="1573883941116" duration="3889000" />
+      <workItem from="1573892842139" duration="4460000" />
+      <workItem from="1573925503772" duration="4116000" />
+      <workItem from="1573973773339" duration="5491000" />
+      <workItem from="1573997117629" duration="10195000" />
+      <workItem from="1574051940572" duration="299000" />
+      <workItem from="1574052298747" duration="3051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/towerDenfense/Enemy.java</url>
+          <line>5</line>
+          <properties field="health" class="towerDenfense.Enemy" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tower_defense$Frame.ic" NAME="Frame Coverage Results" MODIFIED="1572957961045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
